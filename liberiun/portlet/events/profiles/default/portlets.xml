@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<portlets>
+
+ <!-- Portlet type registrations -->
+
+ <portlet
+   addview="liberiun.portlet.events.EventsPortlet"
+   title="Liberiun Events"
+   description="A portlet which can render a listing of recent events"
+   />
+
+</portlets>
